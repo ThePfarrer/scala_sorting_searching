@@ -1,0 +1,17 @@
+# Project exclude paths
+/project/project/target/
+/project/target/
+/target/
+
+*.iml
+.idea
+.settings
+.classpath
+.project
+.cache
+.sbtserver
+project/.sbtserver
+tags
+nohup.out
+out
+.bsp
